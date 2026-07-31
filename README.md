@@ -42,6 +42,9 @@ I'm currently expanding my knowledge in:
 
 I'm always looking for opportunities to apply what I learn through personal projects, university coursework and real-world development.
 
+## Repository Overview
+My GitHub profile contains some of my university projects.
+
 
 ## Contact
 

@@ -1,5 +1,3 @@
-# Emma Jørgensen
-
 Software Technology Engineering student at the Technical University of Denmark (DTU) with a strong interest in software engineering, backend development and system design. I enjoy writing good code, solving problems and continuously expanding my technical knowledge!
 
 Currently working as a Teaching Assistant at DTU in Advanced Programming and Machine Oriented Programming, while also gaining industry experience through my role at Netcompany.

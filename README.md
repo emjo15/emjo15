@@ -1,16 +1,52 @@
-## Hi there 👋
+# Emma Jørgensen
 
-<!--
-**emjo15/emjo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Technology Engineering student at the Technical University of Denmark (DTU) with a strong interest in software engineering, backend development and system design. I enjoy writing good code, solving problems and continuously expanding my technical knowledge!
 
-Here are some ideas to get you started:
+Currently working as a Teaching Assistant at DTU in Advanced Programming and Machine Oriented Programming, while also gaining industry experience through my role at Netcompany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am passionate about writing clean, maintainable code and understanding the underlying principles behind modern software systems. My academic work have given me exposure to object-oriented programming, backend development, low-level programming, debugging, and documentation of code.
+
+I use GitHub to document my learning and university projects.
+
+## Technical Skills
+
+### Programming Languages
+
+* Java
+* C#
+* C
+* Kotlin
+* SQL
+* HTML/CSS
+* LC3 Assembly
+
+### Frameworks & Technologies
+
+* Spring Boot
+* ASP.NET Core
+* React
+* Svelte
+* Kotlin Multiplatform
+* REST APIs
+
+
+## Current Focus
+
+I'm currently expanding my knowledge in:
+* .NET and C# application development
+* React and modern frontend development
+* Algorithms and data structures
+* Artificial Intelligence and Machine Learning
+* Software architecture and design patterns
+* Building scalable backend applications
+
+I'm always looking for opportunities to apply what I learn through personal projects, university coursework and real-world development.
+
+
+## Contact
+
+**LinkedIn:** https://www.linkedin.com/in/emma-jørgensen-bb6805294/
+
+**Email:** [emmadhjoergensen@gmail.com](mailto:emmadhjoergensen@gmail.com)

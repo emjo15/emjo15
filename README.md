@@ -4,9 +4,7 @@ Currently working as a Teaching Assistant at DTU in Advanced Programming, while 
 
 ## About
 
-I am passionate about writing clean, maintainable code and understanding the underlying principles behind modern software systems. My academic work have given me exposure to object-oriented programming, backend development, low-level programming, debugging, and documentation of code.
-
-I use GitHub to document my learning and university projects.
+I am passionate about writing clean, maintainable code and understanding the underlying principles behind modern software systems. My academic work have given me exposure to object-oriented programming, backend development, low-level programming, debugging and documentation of code.
 
 ## Technical Skills
 
@@ -17,8 +15,10 @@ I use GitHub to document my learning and university projects.
 * C
 * Kotlin
 * SQL
-* HTML/CSS
+* HTML
+* CSS
 * LC3 Assembly
+* Python
 
 ### Frameworks & Technologies
 
@@ -33,11 +33,11 @@ I use GitHub to document my learning and university projects.
 ## Current Focus
 
 I'm currently expanding my knowledge in:
+* How AI can be used effectively in software development
 * .NET and C# application development
 * React and modern frontend development
 * Algorithms and data structures
 * Artificial Intelligence and Machine Learning
-* Software architecture and design patterns
 * Building scalable backend applications
 
 I'm always looking for opportunities to apply what I learn through personal projects, university coursework and real-world development.

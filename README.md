@@ -13,11 +13,7 @@ I am passionate about writing clean, maintainable code and understanding the und
 * Java
 * C#
 * C
-* Kotlin
 * SQL
-* HTML
-* CSS
-* LC3 Assembly
 * Python
 
 ### Frameworks & Technologies
@@ -25,7 +21,6 @@ I am passionate about writing clean, maintainable code and understanding the und
 * Spring Boot
 * ASP.NET Core
 * React
-* Svelte
 * Kotlin Multiplatform
 * REST APIs
 

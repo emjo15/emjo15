@@ -1,9 +1,8 @@
-I am a Software Technology Engineering student at the Technical University of Denmark (DTU) with a strong interest in backend development, system design and machine learning.
-I am currently working as a Teaching Assistant at DTU in Advanced Programming, while also gaining industry experience through my role at Netcompany.
-
 ## About
 
-I am passionate about writing clean, maintainable code and understanding the underlying principles behind modern software systems. My academic work have given me exposure to object-oriented programming, backend development, low-level programming, debugging and documentation of code.
+I am currently studying Software Technology at the Technical University of Denmark (DTU), with a strong interest in backend development, system design and machine learning. Alongside my studies, I work as a Teaching Assistant in Advanced Programming at DTU and gain industry experience through my role at Netcompany.
+
+I am passionate about writing clean, maintainable code and understanding how different parts of a software system work together. I enjoy exploring and learning new technologies and frameworks and like challenging myself with problems that require both technical understanding and structured thinking.
 
 ## Technical Skills
 
